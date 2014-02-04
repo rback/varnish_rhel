@@ -29,15 +29,6 @@
 The example above assumes that you have a Puppet module *your-varnish-module*
 which has templates */etc/varnish/default.vcl.erb* and */etc/varnish/backend.erb*
 
-## Install
-
-    puppet module install tomitakussaari/varnish_rhel
-
-## Links
-
-This project on Puppet Forge:
-<http://forge.puppetlabs.com/tomitakussaari/varnish_rhel>.
-
 ## License
 
 See the file LICENSE (it's MIT).
